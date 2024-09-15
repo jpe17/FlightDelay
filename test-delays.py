@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timedelta
 
 # API Information
-API_KEY = 'secret'
+API_KEY = 'df4280274755980faace1d6a6f18ba4a'
 BASE_URL = 'http://api.aviationstack.com/v1'
 
 
